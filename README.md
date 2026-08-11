@@ -32,61 +32,67 @@ Esta segunda versión del curso es dictada por:
 
 Las sesiones de taller ocurren los días martes y viernes de 8:30am a 12:50pm.
 
+La asistencia la tomamos 9am y 12:50pm.
+
 ## Calendario
 
-- La semana 04 es semana de solemne-1, por lo tanto, no hay entregas evaluadas de taller.
+<!-- - La semana 04 es semana de solemne-1, por lo tanto, no hay entregas evaluadas de taller.
 - La semana 10 es semana de solemne-2, por lo tanto, no hay entregas evaluadas de taller.
-- La semana 15 es semana de exámenes, por lo tanto, no hay entregas evaluadas de taller.
+- La semana 15 es semana de exámenes, por lo tanto, no hay entregas evaluadas de taller. -->
 
-| Sesión           | Fecha      | Temas                                                 |
-| :--------------- | :--------- | :---------------------------------------------------  |
-| 00b              | 08-07 mar  | introducción a máquinas computacionales               |
-| 01a              | 08-11 mar  | git, markdown, visual studio code, C++                |
-| 01b              | 08-14 vie  | git, markdown, visual studio code, C++                |
-| 02a              | 08-18 mar  | microcontroladores en C++, botones y potenciómetros   |
-| 02b              | 08-21 vie  | samplers, memoria digital, formatos de audio          |
-| 03a              | 08-25 mar  | ADC y DACs en microcontroladores                      |
-| 03b              | 08-29 vie  | impedancia y parlantes                                |
-| 04a              | 09-01 mar  | trabajo en proyecto-01                                |
-| 04b              | 09-04 vie  | trabajo en proyecto-01                                |
-| 05a              | 09-08 mar  | trabajo en proyecto-01                                |
-| 05b              | 09-11 vie  | entrega proyecto-01                                   |
-| semana de receso | 09-15 a 18 | no hay clases, receso universitario                   |
-| 06a              | 09-22 mar  | chips RP2040 y RP2050                                 |
-| 06b              | 09-25 vie  | escritura de bibliotecas para microcontroladores      |
-| 07a              | 09-29 mar  | escritura de bibliotecas para microcontroladores      |
-| 07b              | 10-02 vie  | no hay clases, aniversario udp                        |
-| 08a              | 10-06 mar  | introducción a kicad con control de versiones         |
-| 08b              | 10-09 vie  | esquemáticos y pcb en kicad para microcontroladores   |
-| 09a              | 10-13 mar  | estandarización de huellas en kicad                   |
-| 09b              | 10-16 vie  | estándares electromecánicos                           |
-| 10a              | 10-20 mar  | trabajo en proyecto-02                                |
-| 10b              | 10-23 vie  | trabajo en proyecto-02                                |
-| 11a              | 10-27 mar  | trabajo en proyecto-02                                |
-| 11b              | 10-30 vie  | entrega proyecto-02                                   |
-| 12a              | 11-03 mar  | gerbers y fabricación                                 |
-| 12b              | 11-06 vie  | pick and place para componentes de superficie smt     |
-| 13a              | 11-10 mar  | compontentes de panel y soldadura                     |
-| 13b              | 11-13 vie  | interfaces y carcasas                                 |
-| 14a              | 11-17 mar  | trabajo en proyecto-03                                |
-| 14b              | 11-20 vie  | entrega proyecto-03                                   |
-| 15a              | 11-24 mar  | soldadura y montaje de circuitos                      |
-| 15b              | 11-27 vie  | soldadura y montaje de circuitos                      |
-| 16a              | 12-01 mar  | semana exclusiva de trabajo en talleres               |
-| 16b              | 12-04 vie  | semana exclusiva de trabajo en talleres               |
-| examen           | 12-08 a 11 | examen de taller, diseño abierto                      |
+| Sesión           | Fecha      | Temas                                                |
+| :--------------- | :--------- | :--------------------------------------------------- |
+| 00b              | 08-07 mar  | introducción a máquinas computacionales              |
+| 01a              | 08-11 mar  | git, markdown, visual studio code, C++               |
+| 01b              | 08-14 vie  | git, markdown, visual studio code, C++               |
+| 02a              | 08-18 mar  | microcontroladores en C++, botones y potenciómetros  |
+| 02b              | 08-21 vie  | samplers, memoria digital, formatos de audio         |
+| 03a              | 08-25 mar  | ADC y DACs en microcontroladores                     |
+| 03b              | 08-29 vie  | impedancia y parlantes                               |
+| 04a              | 09-01 mar  | trabajo en proyecto-01                               |
+| 04b              | 09-04 vie  | trabajo en proyecto-01                               |
+| 05a              | 09-08 mar  | trabajo en proyecto-01                               |
+| 05b              | 09-11 vie  | entrega proyecto-01                                  |
+| semana de receso | 09-15 a 18 | no hay clases, receso universitario                  |
+| 06a              | 09-22 mar  | chips RP2040 y RP2050                                |
+| 06b              | 09-25 vie  | escritura de bibliotecas para microcontroladores     |
+| 07a              | 09-29 mar  | escritura de bibliotecas para microcontroladores     |
+| 07b              | 10-02 vie  | no hay clases, aniversario udp                       |
+| 08a              | 10-06 mar  | introducción a kicad con control de versiones        |
+| 08b              | 10-09 vie  | esquemáticos y pcb en kicad para microcontroladores  |
+| 09a              | 10-13 mar  | estandarización de huellas en kicad                  |
+| 09b              | 10-16 vie  | estándares electromecánicos                          |
+| 10a              | 10-20 mar  | trabajo en proyecto-02                               |
+| 10b              | 10-23 vie  | trabajo en proyecto-02                               |
+| 11a              | 10-27 mar  | trabajo en proyecto-02                               |
+| 11b              | 10-30 vie  | entrega proyecto-02                                  |
+| 12a              | 11-03 mar  | gerbers y fabricación                                |
+| 12b              | 11-06 vie  | pick and place para componentes de superficie smt    |
+| 13a              | 11-10 mar  | compontentes de panel y soldadura                    |
+| 13b              | 11-13 vie  | interfaces y carcasas                                |
+| 14a              | 11-17 mar  | trabajo en proyecto-03                               |
+| 14b              | 11-20 vie  | entrega proyecto-03                                  |
+| 15a              | 11-24 mar  | soldadura y montaje de circuitos                     |
+| 15b              | 11-27 vie  | soldadura y montaje de circuitos                     |
+| 16a              | 12-01 mar  | semana exclusiva de trabajo en talleres              |
+| 16b              | 12-04 vie  | semana exclusiva de trabajo en talleres              |
+| examen           | 12-08 a 11 | examen de taller, diseño abierto                     |
 
-## Bibliografía
+## Bitácoras
 
-Leeremos un libro al mes.
+Cada sesión tiene una bitácora asociada que contiene:
 
-### Libro 1: agosto
+- desde que empieza esa sesión, hasta la próxima.
+- si tenemos una sesión 01b y envíamos encargos, en esa bitácora 01b incluyen los apuntes de esa sesión y todos los resultados del encargo enviado. si en la siguiente 02a revisamos ese encargo, lo leemos desde 01b, pero NO lo escribimos en 02a.
 
-### Libro 2: septiembre
+## Lecturas
 
-### Libro 3: octubre
+Leeremos muchos libros en paralelo.
 
-### Libro 4: noviembre
+Cada estudiante lee un libro distinto:
 
-<!-- - Flusser, Vilém, Hacia una filosofía de la fotografía, 1983, disponible en <https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf>. -->
-<!-- - Ono, Yoko, disponible en inglés en <https://monoskop.org/images/6/64/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000.pdf> y en español <https://monoskop.org/images/8/83/Ono_Yoko_Pomelo_Un_libro_de_instrucciones_de_Yoko_Ono.pdf>. -->
+- estimado 1 página al día
+- estimado 30 páginas al mes
+- estimado 100 páginas al semestre
+
+- cada martes en su bitácora de taller, cada estudiante debe escribir un resumen de lo leído, y por lo menos 2 citas de cada libro, incluyendo preguntas, referentes, aseveraciones, material que podamos discutir en clases.
