@@ -38,43 +38,43 @@ Las sesiones de taller ocurren los días martes y viernes de 8:30am a 12:50pm.
 - La semana 10 es semana de solemne-2, por lo tanto, no hay entregas evaluadas de taller.
 - La semana 15 es semana de exámenes, por lo tanto, no hay entregas evaluadas de taller.
 
-| Sesión           | Fecha      | Temas                                                | Lecturas           |
-| :--------------- | :--------- | :--------------------------------------------------- | :----------------- |
-| 00b              | 08-07 mar  | introducción a máquinas computacionales              |                    |
-| 01a              | 08-11 mar  | git, markdown, visual studio code, C++               | libro 1, cap. 1    |
-| 01b              | 08-14 vie  | git, markdown, visual studio code, C++               | libro 1, cap. 1    |
-| 02a              | 08-18 mar  | microcontroladores en C++, botones y potenciómetros  | libro 1, cap. 1    |
-| 02b              | 08-21 vie  | samplers, memoria digital, formatos de audio         | libro 1, cap. 1    |
-| 03a              | 08-25 mar  | ADC y DACs en microcontroladores                     | libro 1, cap. 1    |
-| 03b              | 08-29 vie  | impedancia y parlantes                               | libro 1, cap. 1    |
-| 04a              | 09-01 mar  | trabajo en proyecto-01                               |                    |
-| 04b              | 09-04 vie  | trabajo en proyecto-01                               |                    |
-| 05a              | 09-08 mar  | trabajo en proyecto-01                               | libro 2, cap. 1    |
-| 05b              | 09-11 vie  | entrega proyecto-01                                  | libro 2, cap. 1    |
-| semana de receso | 09-15 a 18 | no hay clases, receso universitario                  | libro 2, cap. 1    |
-| 06a              | 09-22 mar  | chips RP2040 y RP2050                                | libro 2, cap. 1    |
-| 06b              | 09-25 vie  | escritura de bibliotecas para microcontroladores     | libro 2, cap. 1    |
-| 07a              | 09-29 mar  | escritura de bibliotecas para microcontroladores     | libro 2, cap. 1    |
-| 07b              | 10-02 vie  | no hay clases, aniversario udp                       | libro 3, cap. 1    |
-| 08a              | 10-06 mar  | introducción a kicad con control de versiones        | libro 3, cap. 1    |
-| 08b              | 10-09 vie  | esquemáticos y pcb en kicad para microcontroladores  | libro 3, cap. 1    |
-| 09a              | 10-13 mar  | estandarización de huellas en kicad                  | libro 3, cap. 1    |
-| 09b              | 10-16 vie  | estándares electromecánicos                          | libro 3, cap. 1    |
-| 10a              | 10-20 mar  | trabajo en proyecto-02                               |                    |
-| 10b              | 10-23 vie  | trabajo en proyecto-02                               |                    |
-| 11a              | 10-27 mar  | trabajo en proyecto-02                               | libro 3, cap. 1    |
-| 11b              | 10-30 vie  | entrega proyecto-02                                  | libro 3, cap. 1    |
-| 12a              | 11-03 mar  | gerbers y fabricación                                | libro 4, cap. 1    |
-| 12b              | 11-06 vie  | pick and place para componentes de superficie smt    | libro 4, cap. 1    |
-| 13a              | 11-10 mar  | compontentes de panel y soldadura                    | libro 4, cap. 1    |
-| 13b              | 11-13 vie  | interfaces y carcasas                                | libro 4, cap. 1    |
-| 14a              | 11-17 mar  | trabajo en proyecto-03                               | libro 4, cap. 1    |
-| 14b              | 11-20 vie  | entrega proyecto-03                                  | libro 4, cap. 1    |
-| 15a              | 11-24 mar  | soldadura y montaje de circuitos                     |                    |
-| 15b              | 11-27 vie  | soldadura y montaje de circuitos                     |                    |
-| 16a              | 12-01 mar  | semana exclusiva de trabajo en talleres              |                    |
-| 16b              | 12-04 vie  | semana exclusiva de trabajo en talleres              |                    |
-| examen           | 12-08 a 11 | examen de taller, diseño abierto                     |                    |
+| Sesión           | Fecha      | Temas                                                 |
+| :--------------- | :--------- | :---------------------------------------------------  |
+| 00b              | 08-07 mar  | introducción a máquinas computacionales               |
+| 01a              | 08-11 mar  | git, markdown, visual studio code, C++                |
+| 01b              | 08-14 vie  | git, markdown, visual studio code, C++                |
+| 02a              | 08-18 mar  | microcontroladores en C++, botones y potenciómetros   |
+| 02b              | 08-21 vie  | samplers, memoria digital, formatos de audio          |
+| 03a              | 08-25 mar  | ADC y DACs en microcontroladores                      |
+| 03b              | 08-29 vie  | impedancia y parlantes                                |
+| 04a              | 09-01 mar  | trabajo en proyecto-01                                |
+| 04b              | 09-04 vie  | trabajo en proyecto-01                                |
+| 05a              | 09-08 mar  | trabajo en proyecto-01                                |
+| 05b              | 09-11 vie  | entrega proyecto-01                                   |
+| semana de receso | 09-15 a 18 | no hay clases, receso universitario                   |
+| 06a              | 09-22 mar  | chips RP2040 y RP2050                                 |
+| 06b              | 09-25 vie  | escritura de bibliotecas para microcontroladores      |
+| 07a              | 09-29 mar  | escritura de bibliotecas para microcontroladores      |
+| 07b              | 10-02 vie  | no hay clases, aniversario udp                        |
+| 08a              | 10-06 mar  | introducción a kicad con control de versiones         |
+| 08b              | 10-09 vie  | esquemáticos y pcb en kicad para microcontroladores   |
+| 09a              | 10-13 mar  | estandarización de huellas en kicad                   |
+| 09b              | 10-16 vie  | estándares electromecánicos                           |
+| 10a              | 10-20 mar  | trabajo en proyecto-02                                |
+| 10b              | 10-23 vie  | trabajo en proyecto-02                                |
+| 11a              | 10-27 mar  | trabajo en proyecto-02                                |
+| 11b              | 10-30 vie  | entrega proyecto-02                                   |
+| 12a              | 11-03 mar  | gerbers y fabricación                                 |
+| 12b              | 11-06 vie  | pick and place para componentes de superficie smt     |
+| 13a              | 11-10 mar  | compontentes de panel y soldadura                     |
+| 13b              | 11-13 vie  | interfaces y carcasas                                 |
+| 14a              | 11-17 mar  | trabajo en proyecto-03                                |
+| 14b              | 11-20 vie  | entrega proyecto-03                                   |
+| 15a              | 11-24 mar  | soldadura y montaje de circuitos                      |
+| 15b              | 11-27 vie  | soldadura y montaje de circuitos                      |
+| 16a              | 12-01 mar  | semana exclusiva de trabajo en talleres               |
+| 16b              | 12-04 vie  | semana exclusiva de trabajo en talleres               |
+| examen           | 12-08 a 11 | examen de taller, diseño abierto                      |
 
 ## Bibliografía
 
