@@ -44,7 +44,7 @@ La asistencia la tomamos 9am y 12:50pm.
 | :--------------- | :--------- | :--------------------------------------------------- |
 | 00b              | 08-07 mar  | introducción a máquinas computacionales              |
 | 01a              | 08-11 mar  | git, markdown, visual studio code, C++               |
-| 01b              | 08-14 vie  | git, markdown, visual studio code, C++               |
+| 01b              | 08-14 vie  | variables y funciones en C++, Arduino IDE            |
 | 02a              | 08-18 mar  | microcontroladores en C++, botones y potenciómetros  |
 | 02b              | 08-21 vie  | samplers, memoria digital, formatos de audio         |
 | 03a              | 08-25 mar  | ADC y DACs en microcontroladores                     |
