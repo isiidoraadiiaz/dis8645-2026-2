@@ -43,19 +43,19 @@ La asistencia la tomamos 9am y 12:50pm.
 | Sesión           | Fecha      | Temas                                                |
 | :--------------- | :--------- | :--------------------------------------------------- |
 | 00b              | 08-07 mar  | introducción a máquinas computacionales              |
-| 01a              | 08-11 mar  | git, markdown, visual studio code, C++               |
+| 01a              | 08-11 mar  | git, github, markdown, C++                           |
 | 01b              | 08-14 vie  | variables y funciones en C++, Arduino IDE            |
 | 02a              | 08-18 mar  | microcontroladores en C++, botones y potenciómetros  |
-| 02b              | 08-21 vie  | samplers, memoria digital, formatos de audio         |
-| 03a              | 08-25 mar  | ADC y DACs en microcontroladores                     |
-| 03b              | 08-29 vie  | impedancia y parlantes                               |
+| 02b              | 08-21 vie  | visual studio code, Rasberry Pi Pico                 |
+| 03a              | 08-25 mar  | ADC y DACs, pantallas i2c                            |
+| 03b              | 08-29 vie  | samplers, memoria digital, formatos de audio         |
 | 04a              | 09-01 mar  | trabajo en proyecto-01                               |
 | 04b              | 09-04 vie  | trabajo en proyecto-01                               |
 | 05a              | 09-08 mar  | trabajo en proyecto-01                               |
 | 05b              | 09-11 vie  | entrega proyecto-01                                  |
 | semana de receso | 09-15 a 18 | no hay clases, receso universitario                  |
 | 06a              | 09-22 mar  | chips RP2040 y RP2050                                |
-| 06b              | 09-25 vie  | escritura de bibliotecas para microcontroladores     |
+| 06b              | 09-25 vie  | impedancia y parlantes                               |
 | 07a              | 09-29 mar  | escritura de bibliotecas para microcontroladores     |
 | 07b              | 10-02 vie  | no hay clases, aniversario udp                       |
 | 08a              | 10-06 mar  | introducción a kicad con control de versiones        |
