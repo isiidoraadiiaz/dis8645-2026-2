@@ -51,8 +51,8 @@ La asistencia la tomamos 9am y 12:50pm.
 | 03b              | 08-29 vie  | char, string, String, arrays                         |
 | 04a              | 09-01 mar  | trabajo en proyecto-01                               |
 | 04b              | 09-04 vie  | trabajo en proyecto-01                               |
-| 05a              | 09-08 mar  | trabajo en proyecto-01                               |
-| 05b              | 09-11 vie  | entrega proyecto-01                                  |
+| 05a              | 09-08 mar  | entrega proyecto-01                               |
+| 05b              | 09-11 vie  | retroalimentación proyecto-01                                 |
 | semana de receso | 09-15 a 18 | no hay clases, receso universitario                  |
 | 06a              | 09-22 mar  | samplers, memoria digital, formatos de audio         |
 | 06b              | 09-25 vie  | ADC y DACs, impedancia y parlantes                   |
@@ -68,7 +68,7 @@ La asistencia la tomamos 9am y 12:50pm.
 | 11b              | 10-30 vie  | entrega proyecto-02                                  |
 | 12a              | 11-03 mar  | gerbers y fabricación                                |
 | 12b              | 11-06 vie  | pick and place para componentes de superficie smt    |
-| 13a              | 11-10 mar  | compontentes de panel y soldadura                    |
+| 13a              | 11-10 mar  | componentes de panel y soldadura                    |
 | 13b              | 11-13 vie  | interfaces y carcasas                                |
 | 14a              | 11-17 mar  | trabajo en proyecto-03                               |
 | 14b              | 11-20 vie  | entrega proyecto-03                                  |
